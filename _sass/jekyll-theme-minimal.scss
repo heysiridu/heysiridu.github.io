@@ -230,6 +230,11 @@ footer {
   visibility: hidden;
 }
 
+
+  p.chill {
+    font-style: italic;
+  }
+
 @media print,
 screen and (max-width: 960px) {
 
@@ -281,10 +286,6 @@ screen and (max-width: 720px) {
   header ul,
   header p.view {
     position: static;
-  }
-
-  p.chill {
-    font-style: italic;
   }
 
   pre,
