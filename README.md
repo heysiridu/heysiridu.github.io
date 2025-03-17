@@ -1,6 +1,6 @@
 
 # Technical Product Manager
-> Technical Skills: Java, Python, SQL, AWS, Snowflake, and Figma
+> Technical Skills: Java, Python, SQL, AWS, Snowflake, and Figma.
 
 I am an MBA student at Columbia Business School and expect to graduate in Spring 2025. I am taking a series of Computer Science classes at Columbia Engineering. Before my MBA, I was a product manager at TikTok, building a 3D effect engine and working with the machine learning algorithm to allocate traffic on TikTok. I also worked in a series C1 B2B product-led growth designer collaboration platform and led the AI functions roadmap.
 
